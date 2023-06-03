@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Eviando e atualizando para o online
+=======
+a   
+b
+C
+Compass UOL
+Sou estudante da UTFPR
+>>>>>>> teste_criaçao_2
