@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Eviando e atualizando para o online
 =======
 a   
@@ -7,3 +8,8 @@ C
 Compass UOL
 Sou estudante da UTFPR
 >>>>>>> teste_criaçao_2
+=======
+Luiz Felipe Miguel 
+
+Engenharia de Software - UTFPR
+>>>>>>> teste_criando
