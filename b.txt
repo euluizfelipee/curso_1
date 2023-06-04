@@ -11,6 +11,9 @@ Envinado a funcionalidade X
 Para a nova branch
 
 
+<<<<<<< HEAD
 
 Último Teste // 1
+=======
+>>>>>>> 9fb21f2f9138f86987d792514fb14dc5d8145e97
 Último Teste // 1
