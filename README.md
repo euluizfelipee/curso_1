@@ -3,10 +3,7 @@
 Vamos criar um ecommerce para o **COMPASSUOL**, *repositorio* X
 
 ## Funcionalidades: 
-Chekcout.
-Tela de Produto.
-Catalogo.
-home.
+_Chekcout **Tela de Produto** Catalogo home_
 
 ###### Melhorias de projeto
 Melhoria , melhoria .
