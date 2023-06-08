@@ -1,6 +1,6 @@
 # E - commerce empresa X
 
-Vamos criar um ecommerce para a empresa X
+Vamos criar um ecommerce para o **COMPASSUOL** *repositorio* X
 
 ## Funcionalidades: 
 Chekcout.
