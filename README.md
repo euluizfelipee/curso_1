@@ -26,3 +26,8 @@ __Melhoria_1__, _melhoria_2_
     3. Estágio UOL.
 2. To aprendendo Bastante.
 3. Eu amo softwre, a área que mais gosto.
+
+
+#### Imagem Local 
+
+![Foto minha](IMG/eu.png)
