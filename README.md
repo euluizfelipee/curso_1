@@ -19,3 +19,7 @@ __Melhoria_1__, _melhoria_2_
 * C#
 * JavaScript
 
+### Funcionaliades a desenvolver:
+1. Aréa de Mensagem.
+2. To aprendendo Bastante.
+3. Eu amo softwre, a área que mais gosto.
