@@ -9,3 +9,13 @@ _Chekcout **Tela de Produto** Catalogo home_,
 **Chekcout _Tela de Produto_ Catalogo home**
 ###### Melhorias de projeto
 __Melhoria_1__, _melhoria_2_
+
+### Linguagens do Projeto:
+
+* HTML
+* CSSS
+* Python
+* C
+* C#
+* JavaScript
+
