@@ -30,4 +30,5 @@ __Melhoria_1__, _melhoria_2_
 
 #### Imagem Local 
 
-![Foto minha](IMG/euss.png)
+
+![Foto minha](IMG/ssa.png)
