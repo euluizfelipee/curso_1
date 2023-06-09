@@ -35,5 +35,5 @@ __Melhoria_1__, _melhoria_2_
 
 
 #### Imagem Externa
-![ike south park](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsouthpark.fandom.com%2Fwiki%2FIke_Broflovski&psig=AOvVaw1LoAgzReVarzVz3n1j7U16&ust=1686356114871000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJCbwqP0tP8CFQAAAAAdAAAAABAD)
+![ike south park](https://static.wikia.nocookie.net/southpark/images/a/af/Ike-current.png/revision/latest?cb=20180521124521)
 
