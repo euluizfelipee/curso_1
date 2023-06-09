@@ -42,4 +42,4 @@ __Melhoria_1__, _melhoria_2_
 
 [Google](https://www.google.com)
 
-[https://http://www.utfpr.edu.br/campus/doisvizinhos]
+(https://http://www.utfpr.edu.br/campus/doisvizinhos)
