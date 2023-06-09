@@ -47,3 +47,10 @@ __Melhoria_1__, _melhoria_2_
 
 
 [![ike south park](https://static.wikia.nocookie.net/southpark/images/a/af/Ike-current.png/revision/latest?cb=20180521124521)](https://http://www.utfpr.edu.br/campus/doisvizinhos)
+
+### Lista de tarefas a fazer:
+
+- [ x ] Tarefas completadas.
+
+
+- [ ] Tarefas a fazer.
