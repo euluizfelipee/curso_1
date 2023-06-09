@@ -1,9 +1,5 @@
-Eviando e atualizando para o online
-a   
-b
-C
-Compass UOL
-Sou estudante da UTFPR
-Luiz Felipe Miguel 
-Engenharia de Software - UTFPR
+Compass UOL.
+Sou estudante da UTFPR.
+Luiz Felipe Miguel.
+Engenharia de Software - UTFPR.
 
