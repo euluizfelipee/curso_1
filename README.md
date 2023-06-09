@@ -50,7 +50,7 @@ __Melhoria_1__, _melhoria_2_
 
 ### Lista de tarefas a fazer:
 
-- [ x ] Tarefas completadas.
+- [x] Tarefas completadas.
 - [ ] Tarefas a fazer.
 - [ ] Bonus.
 - [x] PHP.
