@@ -35,5 +35,5 @@ __Melhoria_1__, _melhoria_2_
 
 
 #### Imagem Externa
-![ike south park](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)
+![ike south park](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
 
