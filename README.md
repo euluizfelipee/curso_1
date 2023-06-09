@@ -32,3 +32,8 @@ __Melhoria_1__, _melhoria_2_
 
 
 ![Foto minha](IMG/ssa.png)
+
+
+#### Imagem Externa
+![ike south park](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsouthpark.fandom.com%2Fwiki%2FIke_Broflovski&psig=AOvVaw2LSnIr1ZYtTUxEoeG73Ba4&ust=1686355700323000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOi9j9jytP8CFQAAAAAdAAAAABAD)
+
